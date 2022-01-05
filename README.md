@@ -1,6 +1,6 @@
 # RNA-Sequence-Identifier
 
-   Ribonucleic acid, or RNA is one of the three major
+ * Ribonucleic acid, or RNA is one of the three major
  * biological macromolecules that are essential for all known forms of life
  * (along with DNA and proteins). A central tenet of molecular biology states
  * that the flow of genetic information in a cell is from DNA through RNA to
